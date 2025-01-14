@@ -29,10 +29,9 @@ DakMonitor website system monitoring tool | Công cụ giám sát hệ thống w
 - **Certificate info**
 - **Proxy support**
 - **2FA support**
-- 
   ---
 
-For more information, please visit our website: [DakOnline Official Website](#).
+For more information, please visit our website: [DakMonitor website system monitoring tool](#).
 
 ---
 
@@ -40,7 +39,7 @@ For more information, please visit our website: [DakOnline Official Website](#).
 Võ Đức Toàn 0941041547 
 
 **Thông tin:**
-- Hoàng Quốc Tuấn: [hoangquoctuan.net](http://hoangquoctuan.net)
-- Quản lý: Công ty thiết kế web tại Đắk Lắk [daksystem.net](http://daksystem.net)
-- Thiết kế website tại Đắk Lắk: [dakdesign.net](http://dakdesign.net)
+- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
+- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
+- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
 
